@@ -14,7 +14,7 @@ as a policy research aide at my university, where I have had the opportunity to 
 projects covering topics such as COVID-19 infection rates by state and race, infant mortality and natality rates by race and year, SNAP food insecurity rates before 
 and during the pandemic, etc. <br /> <br />
  In the future, I hope to build a career around policy research that not only covers topics important to me, but that is used by 
-legislators and their committees for crafting majorly transformative policies. 
+legislators and their committees in crafting majorly transformative policies. 
 <br />
 ![image](https://user-images.githubusercontent.com/91711083/193728205-dab7b449-eda2-4455-b773-3d5fdf707a6d.png)
 <br /> *a real picture of the author*
