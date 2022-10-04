@@ -1,4 +1,8 @@
 # Basics-of-Data-Vis
 ----
-## Welcome! 
-### [Read More Here...](https://github.com/ameliavasquez/Basics-of-Data-Vis/edit/main/Welcome!)
+## [Welcome!](https://github.com/ameliavasquez/Basics-of-Data-Vis/edit/main/Welcome!)
+
+## Data Vis Content
+### Visualization Blogs
+### Short Form Blogs
+### Final Assignment
