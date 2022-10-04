@@ -9,7 +9,11 @@ and State inaction—came together to construct my core motivations and ultimate
 lives of as many people as I could. 
 <br /> <br /> Throughout middle and high school, I developed my political understandings in activities like policy debate, in which I roleplayed
 as a policymaker alongside my peers to produce impactful legislation relating to national issues and foreign policy issues. Now, in college, I am continuing my
-political science and policy-oriented education. Most importantly, I now know how I want to use my capabilities to make meaninful differences: policy research. I work 
+political science and policy-oriented education. Most importantly, I now know how I want to use my capabilities to make meaninful differences: policy research. A little over a year ago, I began my policy research experience at one of my university's Summer research programs. I used R to study American public school expenditures in relation to the racial makeup of public school students, and I made a variety of visualizations, including the one below:
+
+<img width="639" alt="pctbl" src="https://user-images.githubusercontent.com/91711083/193732493-b2fbca60-fe09-4ac8-92bc-04e91f9298ca.PNG">
+
+I currently work 
 as a policy research aide at my university, where I have had the opportunity to learn statistical analysis and coding skills that help me contribute to major research
 projects covering topics such as COVID-19 infection rates by state and race, infant mortality and natality rates by race and year, SNAP food insecurity rates before 
 and during the pandemic, etc. <br /> <br />
