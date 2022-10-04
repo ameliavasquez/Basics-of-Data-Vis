@@ -1,6 +1,6 @@
 # Basics-of-Data-Vis
 ----
-## [Welcome!](https://github.com/ameliavasquez/Basics-of-Data-Vis/blob/main/Welcome!.md)
+## [Welcome!](https://github.com/ameliavasquez/Basics-of-Data-Vis/blob/main/Welcome!.md) :kissing_cat:
 
 ## Data Vis Content
 ### [Visualization Blogs](https://github.com/ameliavasquez/Basics-of-Data-Vis/blob/main/Visualization%20Blogs.md)
