@@ -6,8 +6,7 @@
 ### Visualization Blogs
 ### Short Form Blogs
 ### Final Assignment
-<br />
-<br />
-<br />
-<br />
+
+<br /><br />
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
