@@ -1,3 +1,2 @@
 
-<br />
 loading vis blogs...
