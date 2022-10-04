@@ -15,12 +15,13 @@ projects covering topics such as COVID-19 infection rates by state and race, inf
 and during the pandemic, etc. <br /> <br />
  In the future, I hope to build a career around policy research that not only covers topics important to me, but that is used by 
 legislators and their committees for crafting majorly transformative policies. 
-
+<br />
+![image](https://user-images.githubusercontent.com/91711083/193728205-dab7b449-eda2-4455-b773-3d5fdf707a6d.png)
+<br /> *a real picture of the author*
 
 ## Site Motivation
 My current education and career goals have led me to develop my policy research skills, which among other things include coding and data visualization. This site
-serves as a collection of data vis information I learn, data visualizations I have gathered from the internet, and data visualization I have created. Join me on this
+serves as a collection of data vis information I learn, data visualizations I have gathered from the internet, and data visualizations I have created. Join me on this
 10-week journey as I improve upon my data vis knowledge and capabilities!
 
-![image](https://user-images.githubusercontent.com/91711083/193728205-dab7b449-eda2-4455-b773-3d5fdf707a6d.png)
-<br /> *a real picture of the author*
+
