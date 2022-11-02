@@ -25,7 +25,7 @@ With all of these criticisms, I used data from the U.S. Bureau of Labor Statisti
 <br />
 
 
-![image](https://user-images.githubusercontent.com/91711083/199411855-cf2d51ba-e12d-47cb-b23e-32d71f117c8a.png)
+![image](https://user-images.githubusercontent.com/91711083/199419945-df278cf9-7862-4c20-a713-e10b0fa98dcb.png)
 
 <br />
 I think this is an improved version of the original visualization in many ways, although these two graphs fundamentally show different information. The first graph
@@ -45,6 +45,6 @@ $13,165; $34,767; $61,214; $100,527; and $226,386.
 So, while weekly food spending wasn't proportional to gross income (ratios of the income groups
 are not equal to the ratios of the weekly food spending figures), there is certainly a correlation between
 gross income and food spending, which my graph conveys. The confidence intervals show that 95% of the real population is accounted for in the figures included
-in the sample data, so with little overlap between confidence intervals of the various income groups, we can be very confident in the fact that in the actual 
+in the sample data, so with no overlap between confidence intervals of the various income groups, we can be very confident in the fact that in the actual 
 American population, there is the correlation
 that we have observed in the sample means. 
